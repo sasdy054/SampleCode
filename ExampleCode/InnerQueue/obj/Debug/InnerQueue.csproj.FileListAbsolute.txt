@@ -1,0 +1,25 @@
+\\doc\ppss\Picking\F2\F2-WHIN\InnerQueue\InnerQueue\obj\Debug\InnerQueue.Form1.resources
+\\doc\ppss\Picking\F2\F2-WHIN\InnerQueue\InnerQueue\obj\Debug\InnerQueue.Properties.Resources.resources
+\\doc\ppss\Picking\F2\F2-WHIN\InnerQueue\InnerQueue\obj\Debug\InnerQueue.csproj.GenerateResource.Cache
+\\doc\ppss\Picking\F2\F2-WHIN\InnerQueue\InnerQueue\obj\Debug\InnerQueue.csproj.CoreCompileInputs.cache
+\\doc\ppss\Picking\F2\F2-WHIN\InnerQueue\InnerQueue\bin\Debug\InnerQueue.exe.config
+\\doc\ppss\Picking\F2\F2-WHIN\InnerQueue\InnerQueue\bin\Debug\InnerQueue.exe
+\\doc\ppss\Picking\F2\F2-WHIN\InnerQueue\InnerQueue\bin\Debug\InnerQueue.pdb
+\\doc\ppss\Picking\F2\F2-WHIN\InnerQueue\InnerQueue\bin\Debug\MESModule.dll
+\\doc\ppss\Picking\F2\F2-WHIN\InnerQueue\InnerQueue\bin\Debug\AxInterop.AiPlugControl.dll
+\\doc\ppss\Picking\F2\F2-WHIN\InnerQueue\InnerQueue\bin\Debug\MESModule.pdb
+\\doc\ppss\Picking\F2\F2-WHIN\InnerQueue\InnerQueue\obj\Debug\InnerQueue.exe
+\\doc\ppss\Picking\F2\F2-WHIN\InnerQueue\InnerQueue\obj\Debug\InnerQueue.pdb
+\\doc\ppss\Picking\F2\F2-WHIN\InnerQueue\InnerQueue\obj\Debug\InnerQueue.csprojResolveAssemblyReference.cache
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\bin\Debug\InnerQueue.exe.config
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\bin\Debug\InnerQueue.exe
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\bin\Debug\InnerQueue.pdb
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\bin\Debug\AxInterop.AiPlugControl.dll
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\bin\Debug\MESModule.pdb
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\obj\Debug\InnerQueue.csprojResolveAssemblyReference.cache
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\obj\Debug\InnerQueue.Form1.resources
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\obj\Debug\InnerQueue.Properties.Resources.resources
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\obj\Debug\InnerQueue.csproj.GenerateResource.Cache
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\obj\Debug\InnerQueue.csproj.CoreCompileInputs.cache
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\obj\Debug\InnerQueue.exe
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\obj\Debug\InnerQueue.pdb

@@ -1,0 +1,34 @@
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\bin\Debug\PartConfirm.exe.config
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\bin\Debug\PartConfirm.exe
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\bin\Debug\PartConfirm.pdb
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\bin\Debug\AxInterop.AiPlugControl.dll
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\bin\Debug\MESModule.pdb
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\obj\Debug\PartConfirm.csprojResolveAssemblyReference.cache
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\obj\Debug\InnerQueue.Form1.resources
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\obj\Debug\PartConfirm.Properties.Resources.resources
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\obj\Debug\PartConfirm.csproj.GenerateResource.Cache
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\obj\Debug\PartConfirm.csproj.CoreCompileInputs.cache
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\obj\Debug\PartConfirm.exe
+\\doc\ppss\Picking\PartQueue c#\InnerQueue\obj\Debug\PartConfirm.pdb
+\\doc\ppss\Picking\PartConfirm c#\InnerQueue\bin\Debug\PartConfirm.exe.config
+\\doc\ppss\Picking\PartConfirm c#\InnerQueue\bin\Debug\PartConfirm.exe
+\\doc\ppss\Picking\PartConfirm c#\InnerQueue\bin\Debug\PartConfirm.pdb
+\\doc\ppss\Picking\PartConfirm c#\InnerQueue\bin\Debug\AxInterop.AiPlugControl.dll
+\\doc\ppss\Picking\PartConfirm c#\InnerQueue\bin\Debug\MESModule.pdb
+\\doc\ppss\Picking\PartConfirm c#\InnerQueue\obj\Debug\PartConfirm.csprojResolveAssemblyReference.cache
+\\doc\ppss\Picking\PartConfirm c#\InnerQueue\obj\Debug\InnerQueue.Form1.resources
+\\doc\ppss\Picking\PartConfirm c#\InnerQueue\obj\Debug\PartConfirm.Properties.Resources.resources
+\\doc\ppss\Picking\PartConfirm c#\InnerQueue\obj\Debug\PartConfirm.csproj.GenerateResource.Cache
+\\doc\ppss\Picking\PartConfirm c#\InnerQueue\obj\Debug\PartConfirm.csproj.CoreCompileInputs.cache
+\\doc\ppss\Picking\PartConfirm c#\InnerQueue\obj\Debug\PartConfirm.exe
+\\doc\ppss\Picking\PartConfirm c#\InnerQueue\obj\Debug\PartConfirm.pdb
+\\doc\ppss\Picking\PartConfirm c#\[Dev]1.0.0.1 -group buffer plan\InnerQueue\bin\Debug\PartConfirm.exe.config
+\\doc\ppss\Picking\PartConfirm c#\[Dev]1.0.0.1 -group buffer plan\InnerQueue\bin\Debug\PartConfirm.exe
+\\doc\ppss\Picking\PartConfirm c#\[Dev]1.0.0.1 -group buffer plan\InnerQueue\bin\Debug\PartConfirm.pdb
+\\doc\ppss\Picking\PartConfirm c#\[Dev]1.0.0.1 -group buffer plan\InnerQueue\obj\Debug\InnerQueue.Form1.resources
+\\doc\ppss\Picking\PartConfirm c#\[Dev]1.0.0.1 -group buffer plan\InnerQueue\obj\Debug\PartConfirm.Properties.Resources.resources
+\\doc\ppss\Picking\PartConfirm c#\[Dev]1.0.0.1 -group buffer plan\InnerQueue\obj\Debug\PartConfirm.csproj.GenerateResource.Cache
+\\doc\ppss\Picking\PartConfirm c#\[Dev]1.0.0.1 -group buffer plan\InnerQueue\obj\Debug\PartConfirm.csproj.CoreCompileInputs.cache
+\\doc\ppss\Picking\PartConfirm c#\[Dev]1.0.0.1 -group buffer plan\InnerQueue\obj\Debug\PartConfirm.exe
+\\doc\ppss\Picking\PartConfirm c#\[Dev]1.0.0.1 -group buffer plan\InnerQueue\obj\Debug\PartConfirm.pdb
+\\doc\ppss\Picking\PartConfirm c#\[Dev]1.0.0.1 -group buffer plan\InnerQueue\obj\Debug\PartConfirm.csprojResolveAssemblyReference.cache
